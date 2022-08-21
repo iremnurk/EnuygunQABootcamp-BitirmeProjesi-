@@ -19,3 +19,6 @@ pet id parametresinde göndererek testini yazın.<br>
 ✅3- /pet/{petId} post, delete testlerini yazın.<br><br>
 
 ## 📱 3- Mobil Appium Test ✖
+
+
+# Testlere test klasörü altından ulaşabilirsiniz.
