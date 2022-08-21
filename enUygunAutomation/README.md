@@ -49,7 +49,7 @@ Yapılacak test işlemleri için metodlar oluşturuldu.
 ✨BaseTest
 
 EnUygunHomePage nesnesi oluşturulup ,
-WebDriver setup edilen class.
+ChromeDriver setup edilen class.
 ``` java
   @BeforeClass
     public  void setup(){
